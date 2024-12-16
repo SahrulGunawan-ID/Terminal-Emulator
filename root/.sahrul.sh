@@ -1,4 +1,4 @@
 clear
 
-PS1="PowerShell~# "
-export PS1
+# Module Prop For Libary
+# Author : Sahrul Gunawan Cyber
