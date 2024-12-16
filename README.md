@@ -4,7 +4,7 @@
 **Codename**: Terminal Emulator
 
 ## Free version of Terminal Emulator from the following link:
-[Download Now](https://raw.githubusercontent.com/SahrulGunawan-ID/Terminal-Emulator/refs/heads/main/root/.sahrul.sh)
+[Download Now](https://github.com/SahrulGunawan-ID/Terminal-Emulator/blob/main/Terminal%20Emulator.apk)
 
 ## Screenshot
 
